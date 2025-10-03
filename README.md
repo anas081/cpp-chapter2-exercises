@@ -38,7 +38,7 @@ Cpp-Chapter2-Exercises/
    cd cpp-chapter2-exercises/src
 
 
-✍️ Author: Muhammad Anas
+
 📌 Beginner-friendly C++ exercises for students and self-learners
 
 ---
